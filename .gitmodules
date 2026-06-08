@@ -1,3 +1,4 @@
 [submodule "deps/oniguruma"]
 	path = deps/oniguruma
-	url = https://github.com/kkos/oniguruma
+	url = ssh://git@github.com/DependencyCodeEditorLand/Oniguruma.git
+	ignore = all
